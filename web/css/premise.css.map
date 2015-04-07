@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEI,0BAAS;EACP,UAAU,EAAE,MAAM;EAClB,aAAa,EAAE,IAAI;EAEjB,kDAAQ;IACN,KAAK,EAAE,KAAK;IACZ,MAAM,EAAE,KAAK;EAGjB,uCAAa;IACX,SAAS,EAAE,KAAK;IAChB,yCAAE;MACA,MAAM,EAAE,MAAM;MACd,OAAO,EAAE,CAAC",
+"sources": ["premise.scss"],
+"names": [],
+"file": "premise.css"
+}
