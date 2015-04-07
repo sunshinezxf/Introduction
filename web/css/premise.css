@@ -1,9 +1,15 @@
 .page .ui-content .qr-code {
+  background-color: #B8CD53;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   text-align: center;
   margin-bottom: 10px; }
-  .page .ui-content .qr-code .qr-pic-wrapper .qr-pic {
-    width: 115px;
-    height: 115px; }
+  .page .ui-content .qr-code .qr-pic-wrapper {
+    margin-top: 10px; }
+    .page .ui-content .qr-code .qr-pic-wrapper .qr-pic {
+      margin-top: 20px;
+      width: 115px;
+      height: 115px; }
   .page .ui-content .qr-code .description {
     font-size: small; }
     .page .ui-content .qr-code .description p {

@@ -10,13 +10,12 @@
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="lib/jquery/jquery.mobile-1.4.5.css">
     <link rel="stylesheet" type="text/css" media="screen" href="css/premise.css">
     <title>AWifi广告页</title>
 </head>
 <body>
-<div class="page" data-role="page">
-    <div role="main" class="ui-content">
+<div class="page">
+    <div class="ui-content">
         <!-- 二维码区域 -->
         <div class="qr-code">
             <div class="qr-pic-wrapper">
@@ -31,7 +30,7 @@
 
         <!-- xx喊你来赚钱区域 -->
         <div class="slogan">
-            <div class="slogan-desc">万科喊你来赚钱</div>
+            <div class="slogan-desc"></div>
             <div class="slogan-pic"></div>
         </div>
         <!-- xx喊你来赚钱区域结束 -->
@@ -54,5 +53,4 @@
     </div>
 </div>
 </body>
-<script src="lib/jquery/jquery.mobile-1.4.5.js"></script>
 </html>
