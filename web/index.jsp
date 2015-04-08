@@ -40,14 +40,14 @@
             <!-- xx喊你来赚钱区域 -->
             <div class="slogan">
                 <div class="slogan-company">万科喊你一起去赚钱</div>
-                <div class="slogan-theme">赚钱的方法可真多！</div>
+                <div class="slogan-theme">赚钱的方法可真多!</div>
             </div>
             <!-- xx喊你来赚钱区域结束 -->
             <div class="earn-money-details">
-                <div class="earn-money-method-desc"></div>
-                <div class="earn-money-method-desc"></div>
-                <div class="earn-money-method-desc"></div>
-                <div class="earn-money-method-desc"></div>
+                <div class="earn-money-method-desc">手机点一点，转发来赚钱</div>
+                <div class="earn-money-method-desc">手机写一写，带看来赚钱</div>
+                <div class="earn-money-method-desc">手机拨一拨，约上亲友来赚钱</div>
+                <div class="earn-money-method-desc">手机扫一扫，签到来赚钱</div>
             </div>
         </div>
         <!-- 赚钱的方法可真多区域结束 -->

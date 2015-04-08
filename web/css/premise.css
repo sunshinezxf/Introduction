@@ -28,11 +28,14 @@ body {
       body .page .ui-content .qr-code .description p {
         margin: 0 auto;
         padding: 2px 15px;
-        font-size: 8px; }
+        font-size: 9px;
+        font-weight: lighter; }
       body .page .ui-content .qr-code .description .desc-qr-method {
         text-align: left;
         color: #FFFFFD; }
   body .page .ui-content .approach-money {
+    padding-top: 10px;
+    padding-bottom: 15px;
     background-color: #0099A2;
     color: #FFFFFD;
     border-bottom-left-radius: 5px;
@@ -40,8 +43,14 @@ body {
     body .page .ui-content .approach-money .slogan {
       font-weight: bold; }
       body .page .ui-content .approach-money .slogan .slogan-company {
-        font-size: 18px; }
+        font-size: 19px; }
       body .page .ui-content .approach-money .slogan .slogan-theme {
-        font-size: 20px; }
+        font-size: 22px; }
+    body .page .ui-content .approach-money .earn-money-details {
+      margin-top: 8px;
+      font-weight: lighter;
+      font-size: 13px; }
+      body .page .ui-content .approach-money .earn-money-details .earn-money-method-desc {
+        padding-bottom: 3px; }
 
 /*# sourceMappingURL=premise.css.map */
