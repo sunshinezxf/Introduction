@@ -22,27 +22,36 @@
                 <img class="qr-pic" src="material/qrcode/example.png"/>
             </div>
             <div class="description">
-                <p class="desc-qr-method">1.长按图片保存至手机</p>
-                <p class="desc-qr-method">2.微信扫描二维码关注</p>
+                <h3>二维码内扫加关注方法</h3>
+
+                <p class="desc-qr-method">1、&nbsp;&nbsp;截屏二维码并保存至手机相册。</p>
+
+                <p class="desc-qr-method">2、&nbsp;&nbsp;打开您的微信，点击右上角"+"，点击"扫一扫"。</p>
+
+                <p class="desc-qr-method">3、&nbsp;&nbsp;进入"扫一扫界面"，点击右上角"相册"，选中刚保存的二维码图片。</p>
+
+                <p class="desc-qr-method">4、&nbsp;&nbsp;点击"关注"。</p>
             </div>
         </div>
         <!-- 二维码区域结束 -->
 
-        <!-- xx喊你来赚钱区域 -->
-        <div class="slogan">
-            <div class="slogan-desc"></div>
-            <div class="slogan-pic"></div>
-        </div>
-        <!-- xx喊你来赚钱区域结束 -->
-
         <!-- 赚钱的方法可真多区域 -->
-        <div class="earn-money-details">
-            <div class="earn-money-method-desc"></div>
-            <div class="earn-money-method-desc"></div>
-            <div class="earn-money-method-desc"></div>
-            <div class="earn-money-method-desc"></div>
+        <div class="approach-money">
+            <!-- xx喊你来赚钱区域 -->
+            <div class="slogan">
+                <div class="slogan-company">万科喊你一起去赚钱</div>
+                <div class="slogan-theme">赚钱的方法可真多！</div>
+            </div>
+            <!-- xx喊你来赚钱区域结束 -->
+            <div class="earn-money-details">
+                <div class="earn-money-method-desc"></div>
+                <div class="earn-money-method-desc"></div>
+                <div class="earn-money-method-desc"></div>
+                <div class="earn-money-method-desc"></div>
+            </div>
         </div>
         <!-- 赚钱的方法可真多区域结束 -->
+
 
         <!-- 卖点展示区域 -->
         <div class="selling-characters">

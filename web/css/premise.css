@@ -1,19 +1,47 @@
-.page .ui-content .qr-code {
-  background-color: #B8CD53;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-  text-align: center;
-  margin-bottom: 10px; }
-  .page .ui-content .qr-code .qr-pic-wrapper {
-    margin-top: 10px; }
-    .page .ui-content .qr-code .qr-pic-wrapper .qr-pic {
-      margin-top: 20px;
-      width: 115px;
-      height: 115px; }
-  .page .ui-content .qr-code .description {
-    font-size: small; }
-    .page .ui-content .qr-code .description p {
-      margin: 0 auto;
-      padding: 0; }
+body {
+  text-align: center; }
+  body .page .ui-content .qr-code {
+    background-color: #B8CD53;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: center;
+    padding-bottom: 5px; }
+    body .page .ui-content .qr-code .qr-pic-wrapper {
+      margin-top: 10px; }
+      body .page .ui-content .qr-code .qr-pic-wrapper .qr-pic {
+        margin-top: 15px;
+        width: 115px;
+        height: 115px; }
+    body .page .ui-content .qr-code .description {
+      font-size: small;
+      border-radius: 8px;
+      border: #FFFFFD solid 1px;
+      margin: 25px 10% 5px 10%; }
+      body .page .ui-content .qr-code .description h3 {
+        color: #FFFFFD;
+        margin: -10px auto 10px auto;
+        font-size: 15px;
+        font-weight: bold;
+        background-color: #B8CD53;
+        width: 150px;
+        padding: 0 15px; }
+      body .page .ui-content .qr-code .description p {
+        margin: 0 auto;
+        padding: 2px 15px;
+        font-size: 8px; }
+      body .page .ui-content .qr-code .description .desc-qr-method {
+        text-align: left;
+        color: #FFFFFD; }
+  body .page .ui-content .approach-money {
+    background-color: #0099A2;
+    color: #FFFFFD;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px; }
+    body .page .ui-content .approach-money .slogan {
+      font-weight: bold; }
+      body .page .ui-content .approach-money .slogan .slogan-company {
+        font-size: 18px; }
+      body .page .ui-content .approach-money .slogan .slogan-theme {
+        font-size: 20px; }
 
 /*# sourceMappingURL=premise.css.map */
